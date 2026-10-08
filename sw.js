@@ -1,5 +1,5 @@
 // Bump VERSION every time you upload changed files, or phones keep the old copy.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'weighin-' + VERSION;
 const FONT_CACHE = 'weighin-fonts';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png'];
